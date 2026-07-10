@@ -19,7 +19,7 @@ This software is distributed as an independent tool.
 You can download the latest version of the application from the **[Releases Page](https://github.com/kodalmax/app/releases)**.
 
 1. Navigate to the **Releases** section.
-2. Download the latest `KODAL_MAX_vX.X.X.apk` file.
+2. Download the latest `app-release-vxxx.apk` file.
 3. Enable "Install from Unknown Sources" on your Android device settings to install.
 
 ## Disclaimer
@@ -35,4 +35,4 @@ We prioritize user privacy. This application requires minimal permissions—only
 This project is an independent initiative under PT Ismaya Dewa Mitra. We focus on clean UI/UX and efficient data processing algorithms.
 
 ---
-*Developed by Lukmanul Khakim | © 2026 PT Ismaya Dewa Mitra*
+*Developed by kodalmax | © 2026 PT Ismaya Dewa Mitra*
